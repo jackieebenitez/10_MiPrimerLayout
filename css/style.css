@@ -1,0 +1,86 @@
+/*nombres coders*/
+.span{
+	position: relative;
+	top:260px;
+	left:0px;
+	display:inline-block;
+	font-family: Montserrat;
+	color:white;
+	font-size:20px;
+}
+/*foto de perfil*/
+.redondo{
+    border-radius: 800px;
+}	
+/*--*/
+.linea{
+	height:30px;
+	background-color:grey;
+	color:white;
+}	
+/*rectángulos de habilidades*/
+#html{
+	width:500px;
+}	
+#css{
+	width:300px;
+}	
+#js	{
+	width:100px;
+}	
+/*--*/
+.img{
+	width:300px;
+	height:200px;
+}
+/*menú estilo*/
+.menu{
+	font-family:Montserrat;
+	font-size:16px;
+	color:#ffad30;
+	margin-top: 5px;
+	margin-bottom:30px;
+}	
+/*estilo subtitulos*/
+h1,h2{
+	font-family: Montserrat;
+	color:#7f5618;
+	margin-left:15px;
+	margin-top:10px;
+}
+/*redes sociales*/
+.icono{
+	width:30px;
+	height:30px;
+	margin-top:10px;
+}
+/*textos descripciones*/
+.texto{
+	margin-top:20px;
+	margin-bottom:30px;
+	font-family:Poppins;
+	font-size:12px;
+}
+/*tamaño de las fotos de coders*/
+.photosize{
+	width:300px;
+	height:300px;
+	margin-top:-30px;
+	margin-bottom:30px;
+}
+/*movimiento de habilidades a la derecha*/
+.habsize{
+	margin-left:15px;
+}
+/*linea de break hecha más pequeña*/
+.hr1{
+	width:50%;
+	margin:auto;
+}
+/*hover*/
+.ex2:hover {
+	-webkit-filter: blur(3px);
+	filter: blur(3px);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}

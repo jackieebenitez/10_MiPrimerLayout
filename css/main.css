@@ -1,0 +1,13 @@
+.span{
+	position: relative;
+	top:-10px;
+	left:200px;
+	display:inline-block;
+	font-family: verdana;
+	font-size:14px;
+	font-weight: bold;
+	color:yellow;
+}
+.redondo{
+    border-radius: 800px;
+}											
